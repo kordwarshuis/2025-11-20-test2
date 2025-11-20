@@ -9,8 +9,8 @@
       "output_path": "./docs",
       "markdown_paths": [
         "spec-head.md",
-        "terms-and-definitions-intro.md",
         "example-markup-in-markdown.md",
+        "terms-and-definitions-intro.md",
         "spec-body.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
